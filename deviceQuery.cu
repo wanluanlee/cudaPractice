@@ -40,5 +40,7 @@ int main(int argc, char **argv)
     {
         printf("Detected %d CUDA Capable device(s)\n", deviceCount);
     }
+  
+  return 0;
 
 }
